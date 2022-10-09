@@ -1,0 +1,2 @@
+Frankenstein's creature has a problem: he needs to be revived by electric current every 25 years. Нe has been living for 357 years. You have an array that stores the voltage used to revive Frankenstein's creature. What will this program output when a = [677, 591, 153, 356, 617, 337, 195, 948, 440, 657, 631, 546, 148, 678]
+a=[677,591,153,356,617,337,195,948,440,657,631,546,148,678]?

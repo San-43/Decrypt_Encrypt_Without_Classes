@@ -1,0 +1,7 @@
+A Jedi decided to release clones x = 2
+x=2
+ times more every time than the previous one. How many clones will be released in each iteration of the index from p = 3
+p=3
+ to t =6
+t=6
+? In other words, what is the expected output when calling the function jedi(2, 3, 6)?

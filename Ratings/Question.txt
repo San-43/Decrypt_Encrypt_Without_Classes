@@ -1,0 +1,4 @@
+A website uses Rating class to store information about ratings of publications. 
+It has two integer fields: upVotes and downVotes and implements Comparable interface. 
+Your task is to write it's compareTo method. 
+Two Rating objects must be compared by a "net rating" which is calculated as a difference between the number of upvotes and the number of downvotes.

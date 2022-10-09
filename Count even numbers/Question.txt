@@ -1,0 +1,5 @@
+Here is a file containing a sequence of integers. Each number begins a new line.
+
+Download the file and write a Java program that counts the number of even numbers in this file. You should stop counting either if you get 0 or the last number is reached.
+
+Enter the result.

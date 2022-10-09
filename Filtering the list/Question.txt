@@ -1,0 +1,3 @@
+Write a program that reads the list of integer numbers separated by spaces from the standard input and then remove all numbers with even indexes (0, 2, 4, and so on).
+
+After that, the program should output the resulting sequence in the reverse order.
